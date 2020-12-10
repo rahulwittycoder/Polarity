@@ -1,0 +1,19 @@
+{
+  "name": "polarity",
+  "version": "1.0.0",
+  "description": "This is a Polling App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulwittycoder/Polarity.git"
+  },
+  "author": "Rahul Raj Tripathi","Aditya Jain","Sanidhya Gupta","Padmesh Mishra"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulwittycoder/Polarity/issues"
+  },
+  "homepage": "https://github.com/rahulwittycoder/Polarity#readme"
+}
