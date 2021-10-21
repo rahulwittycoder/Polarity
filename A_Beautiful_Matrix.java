@@ -27,3 +27,4 @@ else
 System.out.println("The given number is not a spy number.");  
 }  
 }  
+System.out.println("Code Optimized");
