@@ -8,10 +8,8 @@ Scanner sc = new Scanner(System.in);
 System.out.print("Enter the number to check: " );  
 num=sc.nextInt();  
 while(num>0)  
-{  
-//finds the last digit of the number      
+{       
 lastdigit=num%10;  
-//adds last digit to the variable sum  
 sum=sum+lastdigit;  
 //calculates the product  
 product=product*lastdigit;  
