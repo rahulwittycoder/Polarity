@@ -1,10 +1,7 @@
 //import required classes and packages   
-import java.util.Scanner;  
-  
-//create ATMExample class to implement the ATM functionality  
+import java.util.Scanner;   
 public class ATMExample  
 {  
-    //main method starts   
     public static void main(String args[] )  
     {  
         //declare and initialize balance, withdraw, and deposit  
