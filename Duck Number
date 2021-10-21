@@ -25,13 +25,11 @@ public class DuckNumberExample {
     {     
         int n1, n2;  
           
-        //create scanner class object to get input from user  
+ 
         Scanner sc=new Scanner(System.in);  
-          
-        //show custom message  
+         
         System.out.println("Enter first number");  
-          
-        //store user entered value into variable n1  
+   
         n1 = sc.nextInt();  
           
         //show custom message  
