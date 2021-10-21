@@ -51,3 +51,4 @@ public class DuckNumberExample {
     }  
 }  
 //end of the code
+//optimized code using bufferedReader
