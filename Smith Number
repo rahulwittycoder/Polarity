@@ -76,3 +76,5 @@ else
 System.out.print("The given number is not a smith number.");  
 }  
 }  
+
+//end of code
