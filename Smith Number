@@ -10,7 +10,7 @@ while(n>1)
 if(n%i==0)  
 {  
 sum=sum+findSumOfDigit(i);  
-n=n/i;  
+n/=i;
 }  
 else  
 {  
