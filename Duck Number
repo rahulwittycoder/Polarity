@@ -2,11 +2,9 @@
 import java.util.*;   
 import java.io.*;   
 import java.util.Scanner;  
-  
-//create DuckNumberExample class to check whether the given number is a Duck number or not  
 public class DuckNumberExample {  
   
-   // create checkNumber() method that returns true when it founds number Buzz   
+   // create checkNumber() method that returns true when it founds number Bu 
    public static boolean checkNumber(int number) {  
   
       // use loop to repeat steps  
