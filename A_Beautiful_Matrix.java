@@ -4,12 +4,9 @@ public class SpyNumberExample1
 public static void main(String args[])  
 {   
 int num, product=1, sum=0, lastdigit;  
-// create object of scanner  
 Scanner sc = new Scanner(System.in);  
 System.out.print("Enter the number to check: " );  
-//reads an integer from the user and stores it in the variable num  
 num=sc.nextInt();  
-//executes untill the condition becomes false  
 while(num>0)  
 {  
 //finds the last digit of the number      
