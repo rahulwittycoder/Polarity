@@ -26,7 +26,7 @@ if(sum==product)
 //prints if the above condition returns true  
 System.out.println("The given number is a spy number.");  
 else  
-//prints if the above condition returns false  
+//prints else part if the above condition returns false  
 System.out.println("The given number is not a spy number.");  
 }  
 }  
