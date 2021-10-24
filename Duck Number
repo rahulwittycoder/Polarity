@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class DuckNumberExample {  
   
    // create checkNumber() method that returns true when it founds number Bu 
+   //ghjhjkkhg
    public static boolean checkNumber(int number) {  
   
       // use loop to repeat steps  
