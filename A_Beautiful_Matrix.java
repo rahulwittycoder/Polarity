@@ -9,6 +9,7 @@ System.out.print("Enter the number to check: " );
 num=sc.nextInt();  
 while(num>0)  
 {  
+  //hello
 //finds the last digit of the number      
 lastdigit=num%10;  
 //adds last digit to the variable sum  
